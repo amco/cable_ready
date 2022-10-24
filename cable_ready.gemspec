@@ -25,7 +25,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "actioncable", rails_version
   gem.add_dependency "actionpack", rails_version
   gem.add_dependency "actionview", rails_version
-  gem.add_dependency "activerecord", rails_version
   gem.add_dependency "activesupport", rails_version
   gem.add_dependency "railties", rails_version
 
